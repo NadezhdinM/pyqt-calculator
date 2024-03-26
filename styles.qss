@@ -1,0 +1,13 @@
+QWidget {
+    font-size: 16px;
+}
+
+QLineEdit {
+    padding: 10px;
+    font-size: 24px;
+}
+
+QPushButton {
+    padding: 20px;
+    font-size: 18px;
+}
